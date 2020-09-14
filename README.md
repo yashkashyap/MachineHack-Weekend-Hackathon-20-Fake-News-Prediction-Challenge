@@ -2,6 +2,7 @@
 <ol>
 	<li><strong>Public LB Score:</strong> 1.6766436879451447</li>
 	<li><strong>Private LB Score:</strong> 1.6657111619581826</li>
+	<li><string>Private LB Standing:</strong> 8th</li>
 </ol>
 <hr>
 <p>The challenge was to classify the News into following six classes:</p>
